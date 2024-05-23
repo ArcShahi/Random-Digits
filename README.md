@@ -7,7 +7,7 @@ Are you tired of using and initializing `rand()` , `srand()` or `std::mt19937`  
 But not anymore , this header will provide 3 functions to genearate Random Numbers 
 
 1. `arc::randomi` to generate an Integer between a range
-2. Just give this function a range and it will generate a Random Integer
+   Just give this function a range and it will generate a Random Integer
    ```cpp
 
         auto  randomInt{arc::randomi(0,100)}; // get Random number between 0-100
