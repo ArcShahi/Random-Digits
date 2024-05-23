@@ -4,7 +4,7 @@ To generate High Quality Random Numbers.
 
 Are you tired of using and initializing `rand()` , `srand()` or `std::mt19937`  everytime ? it's a hassle to generate some Random numbers for trivial tasks.
 
-But not anymore , this header will provide 3 functions to genearate Randome Numbers 
+But not anymore , this header will provide 3 functions to genearate Random Numbers 
 
 1. `arc::randomi` to generate an Integer between a range
 
