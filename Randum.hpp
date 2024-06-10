@@ -31,7 +31,7 @@ namespace arc
 	{
 		static const char alpha[]{ "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" };
 
-		std::uniform_int_distribution<int> range(0, 52);
+		std::uniform_int_distribution<int> range(0, 51);
 		return alpha[range(mt)];
 	}
 
