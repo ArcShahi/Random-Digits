@@ -10,7 +10,7 @@ But not anymore , this header will provide 3 functions to genearate Random Numbe
    Just give this function a range and it will generate a Random Integer
    ```cpp
 
-        auto  randomInt{xe::randomi(0,100)}; // get Random number between 0-100
+   auto  randomInt{xe::randomi(0,100)}; // get Random number between 0-100
 
     ```
 
